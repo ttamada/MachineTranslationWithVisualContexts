@@ -6,8 +6,10 @@ In the visual_context_weight directory, type as follows:
 
 
 ### NMT with Visual Context (Section 3.4.3) 
-First, in the visual_integrated_translation directory, type as follows to start training:
+1. Install tensorflow 
+
+2. In the visual_integrated_translation directory, type as follows to start training:
 > python translate_visual.py 
 
-After the training, type as follows to start decoding:
+3. After the training, type as follows to start decoding:
 > python translate_visual.py --decode
