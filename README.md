@@ -1,3 +1,5 @@
+Statistical and Neural Machine Translation with Visual Contexts
+
 === Visual Context Weight (Section 3.4.2) ===
 In the visual_context_weight directory, type as follows:
 > python decode_visual.py
