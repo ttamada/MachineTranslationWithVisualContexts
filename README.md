@@ -14,11 +14,13 @@ python decode_visual.py
 1. Install tensorflow 
 
 2. In the visual_integrated_translation directory, run the following command to start training:
+
 ```
 python translate_visual.py 
 ```
 
 3. After the training, run the following command to start decoding:
+
 ```
 python translate_visual.py --decode
 ```
